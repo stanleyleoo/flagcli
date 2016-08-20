@@ -28,6 +28,7 @@ public class FlagCli {
         System.out.println(ANSI_BG_YELLOW_FL_BLUE + "== WELCOME TO GIT COLLABORATION ==");
         System.out.println(ANSI_BG_YELLOW_FL_BLUE + "==         FLAG PROJECT         ==");
         System.out.println(ANSI_BG_YELLOW_FL_BLUE + "==            JEKA              ==");
+        System.out.println(ANSI_BG_YELLOW_FL_BLUE + "==             STANLEY                  ==");
         System.out.println(ANSI_BG_YELLOW_FL_BLUE + "==================================");
         System.out.println("");
         System.out.println("Indonesia");
